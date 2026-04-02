@@ -6,27 +6,39 @@
   "allow_same_name_once": true,
   "cards": [
     {
-      "id": "seat_a1",
-      "title": "A1",
-      "subtitle": "第 1 排 1 號",
+      "id": "seat_k20",
+      "title": "紅色皮克敏的K20",
+      "subtitle": "K20",
       "image": "images/A1.png"
     },
     {
-      "id": "seat_a2",
-      "title": "A2",
-      "subtitle": "第 1 排 2 號",
+      "id": "seat_k21",
+      "title": "黃色皮克敏的K21",
+      "subtitle": "K21",
       "image": "images/A2.png"
     },
     {
-      "id": "seat_a3",
-      "title": "A3",
-      "subtitle": "第 1 排 3 號",
+      "id": "seat_j15",
+      "title": "藍色皮克敏的J15",
+      "subtitle": "J15",
       "image": "images/A3.png"
     },
     {
-      "id": "seat_b1",
-      "title": "B1",
-      "subtitle": "第 2 排 1 號",
+      "id": "seat_j16",
+      "title": "石頭皮克敏的J16",
+      "subtitle": "J16",
+      "image": "images/B1.png"
+    },
+    {
+      "id": "seat_j17",
+      "title": "冰凍皮克敏的J17",
+      "subtitle": "J17",
+      "image": "images/B1.png"
+    },
+    {
+      "id": "seat_j18",
+      "title": "蒼蠅皮克敏？的J18",
+      "subtitle": "J18",
       "image": "images/B1.png"
     }
   ]
