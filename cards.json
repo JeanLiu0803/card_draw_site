@@ -1,0 +1,33 @@
+{
+  "app_title": "電影座位抽卡",
+  "app_subtitle": "按下按鈕後會抽出一張卡片，翻面顯示結果。之後只要替換圖卡與文字，就能改成別的活動。",
+  "badge_text": "Animated Card Draw",
+  "card_back_image": "images/card_back.png",
+  "allow_same_name_once": true,
+  "cards": [
+    {
+      "id": "seat_a1",
+      "title": "A1",
+      "subtitle": "第 1 排 1 號",
+      "image": "images/A1.png"
+    },
+    {
+      "id": "seat_a2",
+      "title": "A2",
+      "subtitle": "第 1 排 2 號",
+      "image": "images/A2.png"
+    },
+    {
+      "id": "seat_a3",
+      "title": "A3",
+      "subtitle": "第 1 排 3 號",
+      "image": "images/A3.png"
+    },
+    {
+      "id": "seat_b1",
+      "title": "B1",
+      "subtitle": "第 2 排 1 號",
+      "image": "images/B1.png"
+    }
+  ]
+}
