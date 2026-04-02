@@ -2,44 +2,44 @@
   "app_title": "皮克敏...的好朋友",
   "app_subtitle": "輸入暱稱後按下按鈕後會抽出一張卡片，並翻面顯示結果。",
   "badge_text": "博愛皮克敏之友團建活動🍄",
-  "card_back_image": "images/card_back.png",
+  "card_back_image": "images/卡背.png",
   "allow_same_name_once": true,
   "cards": [
     {
       "id": "seat_k20",
       "title": "紅色皮克敏的K20",
       "subtitle": "K20",
-      "image": "images/A1.png"
+      "image": "images/紅色皮克敏.png"
     },
     {
       "id": "seat_k21",
       "title": "黃色皮克敏的K21",
       "subtitle": "K21",
-      "image": "images/A2.png"
+      "image": "images/黃色皮克敏.png"
     },
     {
       "id": "seat_j15",
       "title": "藍色皮克敏的J15",
       "subtitle": "J15",
-      "image": "images/A3.png"
+      "image": "images/藍色皮克敏.png"
     },
     {
       "id": "seat_j16",
       "title": "石頭皮克敏的J16",
       "subtitle": "J16",
-      "image": "images/B1.png"
+      "image": "images/石頭皮克敏.png"
     },
     {
       "id": "seat_j17",
-      "title": "冰凍皮克敏的J17",
+      "title": "紫色皮克敏的J17",
       "subtitle": "J17",
-      "image": "images/B1.png"
+      "image": "images/紫色皮克敏.png"
     },
     {
       "id": "seat_j18",
       "title": "蒼蠅皮克敏？的J18",
       "subtitle": "J18",
-      "image": "images/B1.png"
+      "image": "images/蒼蠅皮克敏.png"
     }
   ]
 }
