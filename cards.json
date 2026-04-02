@@ -1,7 +1,7 @@
 {
-  "app_title": "電影座位抽卡",
-  "app_subtitle": "按下按鈕後會抽出一張卡片，翻面顯示結果。之後只要替換圖卡與文字，就能改成別的活動。",
-  "badge_text": "Animated Card Draw",
+  "app_title": "皮克敏...的好朋友 超級瑪利歐銀河觀影會座位抽取",
+  "app_subtitle": "輸入暱稱後按下按鈕後會抽出一張卡片，並翻面顯示結果。",
+  "badge_text": "博愛皮克敏之友團建活動🍄",
   "card_back_image": "images/card_back.png",
   "allow_same_name_once": true,
   "cards": [
